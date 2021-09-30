@@ -1,3 +1,4 @@
 # Project exclude paths
 /demo-redis-01/target/
 /target/
+.idea
